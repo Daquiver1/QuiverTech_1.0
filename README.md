@@ -2,7 +2,7 @@
 
 # QuiverTech Thursday Challenges - Cipher Challenge
 
-Welcome to the first challenge in our QuiverTech Thursday Hacks! For this phase, the goal is to introduce you to the basic concepts of encryption and decryption, skills that are crucial for understanding data security and cryptography. By completing this phase, you will unlock your next clue that will lead you to a Stack Overflow discussion related to a common coding query.
+Welcome to the first challenge in our QuiverTech Thursday Hacks! For this phase, the goal is to introduce you to the basic concepts of encryption and decryption, skills that are crucial for understanding data security and cryptography. By completing this phase, you will unlock your next clue which will lead you to a Google Doc file.
 
 ## What is Encryption?
 
@@ -27,7 +27,7 @@ Below is a message that has been encrypted using a Caesar Cipher with a shift of
 ### Encrypted Message
 kwwsv://grfv.jrrjoh.frp/grfxphqw/g/1ZjRoJR9YvcU0vyTfFJMtfinkKe1ihL05kClJ7VQFnQL/hglw?xvs=vkdulqj
 
-## How to Submit Your Answer
+## What next?
 
 Once you've decrypted the message, follow the link to continue with the QuiverTech Challenge. Good luck, and may the QuiverTech forces be with you. 😂
 
